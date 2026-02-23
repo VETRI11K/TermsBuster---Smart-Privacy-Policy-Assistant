@@ -122,16 +122,18 @@ The modular architecture ensures scalability, maintainability, and future enhanc
 
 ## 📂 Project Structure
 
-termsbuster/│
-<br>├── app.py
-<br>├── modules/
-<br>│ ├── summarizer.py
-<br>│ ├── risk_analyzer.py
-<br>│ ├── ocr_reader.py
-<br>│ ├── privacy_rating.py
-<br>│ └── report_generator.py
-<br>├── requirements.txt
-
+termsbuster/
+│
+├── app.py
+├── modules/
+│   ├── summarizer.py
+│   ├── risk_analyzer.py
+│   ├── ocr_reader.py
+│   ├── privacy_rating.py
+│   └── report_generator.py
+│
+├── requirements.txt
+└── README.md
 ---
 
 ## 📊 Performance Evaluation
