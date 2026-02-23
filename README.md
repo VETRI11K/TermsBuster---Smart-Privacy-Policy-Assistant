@@ -122,8 +122,7 @@ The modular architecture ensures scalability, maintainability, and future enhanc
 
 ## 📂 Project Structure
 
-termsbuster/
-<br>│
+termsbuster/│
 <br>├── app.py
 <br>├── modules/
 <br>│ ├── summarizer.py
