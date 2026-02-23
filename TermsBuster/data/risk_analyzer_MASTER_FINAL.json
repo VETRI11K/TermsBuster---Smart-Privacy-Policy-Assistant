@@ -1,0 +1,2024 @@
+{
+  "very_high_risk": [
+    {
+      "keyword": "sell",
+      "score": 27
+    },
+    {
+      "keyword": "resell information",
+      "score": 26
+    },
+    {
+      "keyword": "monetize details",
+      "score": 27
+    },
+    {
+      "keyword": "data sale of personal data",
+      "score": 26
+    },
+    {
+      "keyword": "data resale for analytics",
+      "score": 25
+    },
+    {
+      "keyword": "processing outside your country of residence",
+      "score": 25
+    },
+    {
+      "keyword": "data resale for analytics",
+      "score": 25
+    },
+    {
+      "keyword": "data broker with third parties",
+      "score": 29
+    },
+    {
+      "keyword": "broker to advertisers",
+      "score": 26
+    },
+    {
+      "keyword": "exchange permanently",
+      "score": 28
+    },
+    {
+      "keyword": "trade for marketing",
+      "score": 28
+    },
+    {
+      "keyword": "commercialize for profiling purposes",
+      "score": 30
+    },
+    {
+      "keyword": "license and affiliates",
+      "score": 26
+    },
+    {
+      "keyword": "license data data",
+      "score": 26
+    },
+    {
+      "keyword": "data marketplace records",
+      "score": 25
+    },
+    {
+      "keyword": "data marketplace sale of users",
+      "score": 29
+    },
+    {
+      "keyword": "share for advertising",
+      "score": 25
+    },
+    {
+      "keyword": "shared without consent",
+      "score": 28
+    },
+    {
+      "keyword": "sharing to third parties",
+      "score": 25
+    },
+    {
+      "keyword": "share with indefinitely",
+      "score": 27
+    },
+    {
+      "keyword": "transfer for research",
+      "score": 26
+    },
+    {
+      "keyword": "transfer data for profiling",
+      "score": 25
+    },
+    {
+      "keyword": "transfer to and partners",
+      "score": 26
+    },
+    {
+      "keyword": "public disclosure",
+      "score": 27
+    },
+    {
+      "keyword": "publish information",
+      "score": 28
+    },
+    {
+      "keyword": "publish data details",
+      "score": 28
+    },
+    {
+      "keyword": "broadcast of personal data",
+      "score": 27
+    },
+    {
+      "keyword": "expose for analytics",
+      "score": 29
+    },
+    {
+      "keyword": "exposed with third parties",
+      "score": 28
+    },
+    {
+      "keyword": "disclose to advertisers",
+      "score": 26
+    },
+    {
+      "keyword": "unrestricted permanently",
+      "score": 26
+    },
+    {
+      "keyword": "unrestricted sharing for marketing",
+      "score": 26
+    },
+    {
+      "keyword": "ad network for profiling purposes",
+      "score": 29
+    },
+    {
+      "keyword": "advertiser and affiliates",
+      "score": 26
+    },
+    {
+      "keyword": "advertisers data",
+      "score": 27
+    },
+    {
+      "keyword": "third-party records",
+      "score": 30
+    },
+    {
+      "keyword": "third parties of users",
+      "score": 27
+    },
+    {
+      "keyword": "third-party sale for advertising",
+      "score": 27
+    },
+    {
+      "keyword": "partners without consent",
+      "score": 27
+    },
+    {
+      "keyword": "affiliate to third parties",
+      "score": 26
+    },
+    {
+      "keyword": "affiliates indefinitely",
+      "score": 30
+    },
+    {
+      "keyword": "partner platforms for research",
+      "score": 30
+    },
+    {
+      "keyword": "marketing purposes for profiling",
+      "score": 25
+    },
+    {
+      "keyword": "advertising and partners",
+      "score": 29
+    },
+    {
+      "keyword": "targeted advertising",
+      "score": 30
+    },
+    {
+      "keyword": "personalized ads information",
+      "score": 28
+    },
+    {
+      "keyword": "profiling details",
+      "score": 25
+    },
+    {
+      "keyword": "behavioral advertising of personal data",
+      "score": 28
+    },
+    {
+      "keyword": "tracking technologies for analytics",
+      "score": 30
+    },
+    {
+      "keyword": "tracking tools with third parties",
+      "score": 28
+    },
+    {
+      "keyword": "data resale program to advertisers",
+      "score": 26
+    },
+    {
+      "keyword": "data marketplace permanently",
+      "score": 29
+    },
+    {
+      "keyword": "sell insights for marketing",
+      "score": 28
+    },
+    {
+      "keyword": "sell information for profiling purposes",
+      "score": 26
+    },
+    {
+      "keyword": "no consent and affiliates",
+      "score": 25
+    },
+    {
+      "keyword": "without consent data",
+      "score": 25
+    },
+    {
+      "keyword": "without notice records",
+      "score": 27
+    },
+    {
+      "keyword": "no notice of users",
+      "score": 29
+    },
+    {
+      "keyword": "no limitation for advertising",
+      "score": 28
+    },
+    {
+      "keyword": "no restriction without consent",
+      "score": 28
+    },
+    {
+      "keyword": "data broker access to third parties",
+      "score": 28
+    },
+    {
+      "keyword": "commercial partner access indefinitely",
+      "score": 25
+    },
+    {
+      "keyword": "external processors for research",
+      "score": 26
+    },
+    {
+      "keyword": "data commercialization for profiling",
+      "score": 29
+    },
+    {
+      "keyword": "analytics sale and partners",
+      "score": 30
+    },
+    {
+      "keyword": "buyer",
+      "score": 28
+    },
+    {
+      "keyword": "buyers information",
+      "score": 26
+    },
+    {
+      "keyword": "data purchaser details",
+      "score": 25
+    },
+    {
+      "keyword": "data purchaser network of personal data",
+      "score": 30
+    },
+    {
+      "keyword": "cross-border transfer for analytics",
+      "score": 27
+    },
+    {
+      "keyword": "transfer abroad with third parties",
+      "score": 30
+    },
+    {
+      "keyword": "export data to advertisers",
+      "score": 28
+    },
+    {
+      "keyword": "data export permanently",
+      "score": 25
+    },
+    {
+      "keyword": "distribute data for marketing",
+      "score": 28
+    },
+    {
+      "keyword": "share publicly for profiling purposes",
+      "score": 27
+    },
+    {
+      "keyword": "publicly share and affiliates",
+      "score": 29
+    },
+    {
+      "keyword": "public sale data",
+      "score": 29
+    },
+    {
+      "keyword": "open sale records",
+      "score": 25
+    },
+    {
+      "keyword": "sell to advertisers of users",
+      "score": 29
+    },
+    {
+      "keyword": "license to advertisers for advertising",
+      "score": 27
+    },
+    {
+      "keyword": "monetize user without consent",
+      "score": 27
+    },
+    {
+      "keyword": "monetize personal to third parties",
+      "score": 30
+    },
+    {
+      "keyword": "profit from data indefinitely",
+      "score": 28
+    },
+    {
+      "keyword": "monetize customer data for research",
+      "score": 29
+    },
+    {
+      "keyword": "data monetization for profiling",
+      "score": 29
+    },
+    {
+      "keyword": "advertising network and partners",
+      "score": 28
+    },
+    {
+      "keyword": "ad network partners",
+      "score": 28
+    },
+    {
+      "keyword": "data brokerage information",
+      "score": 28
+    },
+    {
+      "keyword": "data broker services details",
+      "score": 25
+    },
+    {
+      "keyword": "aggregate sale of personal data",
+      "score": 28
+    },
+    {
+      "keyword": "combine with third party data for analytics",
+      "score": 26
+    },
+    {
+      "keyword": "combine user data with third parties",
+      "score": 26
+    },
+    {
+      "keyword": "combine personal info to advertisers",
+      "score": 30
+    },
+    {
+      "keyword": "sell insights to permanently",
+      "score": 26
+    },
+    {
+      "keyword": "third party rights for marketing",
+      "score": 29
+    },
+    {
+      "keyword": "third-party rights for profiling purposes",
+      "score": 30
+    },
+    {
+      "keyword": "no opt-out and affiliates",
+      "score": 28
+    },
+    {
+      "keyword": "no opt out data",
+      "score": 30
+    },
+    {
+      "keyword": "no opt-out option records",
+      "score": 30
+    },
+    {
+      "keyword": "sell indefinitely",
+      "score": 27
+    },
+    {
+      "keyword": "resell for research",
+      "score": 30
+    },
+    {
+      "keyword": "monetize for profiling",
+      "score": 25
+    }
+  ],
+  "high_risk": [
+    {
+      "keyword": "retain",
+      "score": 20
+    },
+    {
+      "keyword": "retain indefinitely information",
+      "score": 20
+    },
+    {
+      "keyword": "store indefinitely details",
+      "score": 21
+    },
+    {
+      "keyword": "store of personal data",
+      "score": 18
+    },
+    {
+      "keyword": "long term retention for analytics",
+      "score": 18
+    },
+    {
+      "keyword": "data retention with third parties",
+      "score": 16
+    },
+    {
+      "keyword": "archive to advertisers",
+      "score": 19
+    },
+    {
+      "keyword": "archive data permanently",
+      "score": 16
+    },
+    {
+      "keyword": "backup for marketing",
+      "score": 15
+    },
+    {
+      "keyword": "backups for profiling purposes",
+      "score": 18
+    },
+    {
+      "keyword": "backup retention and affiliates",
+      "score": 22
+    },
+    {
+      "keyword": "keep indefinitely data",
+      "score": 20
+    },
+    {
+      "keyword": "persistent storage records",
+      "score": 18
+    },
+    {
+      "keyword": "profiling of users",
+      "score": 16
+    },
+    {
+      "keyword": "profile for advertising",
+      "score": 22
+    },
+    {
+      "keyword": "profile users without consent",
+      "score": 18
+    },
+    {
+      "keyword": "automated decision to third parties",
+      "score": 22
+    },
+    {
+      "keyword": "automated decisions indefinitely",
+      "score": 19
+    },
+    {
+      "keyword": "algorithmic decision for research",
+      "score": 16
+    },
+    {
+      "keyword": "algorithmic profiling for profiling",
+      "score": 15
+    },
+    {
+      "keyword": "biometric and partners",
+      "score": 21
+    },
+    {
+      "keyword": "biometric data",
+      "score": 22
+    },
+    {
+      "keyword": "sensitive data information",
+      "score": 17
+    },
+    {
+      "keyword": "health data details",
+      "score": 21
+    },
+    {
+      "keyword": "medical history of personal data",
+      "score": 17
+    },
+    {
+      "keyword": "genetic for analytics",
+      "score": 17
+    },
+    {
+      "keyword": "genetic information with third parties",
+      "score": 21
+    },
+    {
+      "keyword": "financial data to advertisers",
+      "score": 15
+    },
+    {
+      "keyword": "financial records permanently",
+      "score": 19
+    },
+    {
+      "keyword": "credit score for marketing",
+      "score": 17
+    },
+    {
+      "keyword": "background check for profiling purposes",
+      "score": 22
+    },
+    {
+      "keyword": "background verification and affiliates",
+      "score": 20
+    },
+    {
+      "keyword": "employee monitoring data",
+      "score": 21
+    },
+    {
+      "keyword": "employee surveillance records",
+      "score": 22
+    },
+    {
+      "keyword": "workplace monitoring of users",
+      "score": 20
+    },
+    {
+      "keyword": "location tracking for advertising",
+      "score": 20
+    },
+    {
+      "keyword": "gps tracking without consent",
+      "score": 22
+    },
+    {
+      "keyword": "device fingerprint to third parties",
+      "score": 22
+    },
+    {
+      "keyword": "fingerprint indefinitely",
+      "score": 22
+    },
+    {
+      "keyword": "face recognition for research",
+      "score": 21
+    },
+    {
+      "keyword": "facial recognition for profiling",
+      "score": 16
+    },
+    {
+      "keyword": "voiceprint and partners",
+      "score": 17
+    },
+    {
+      "keyword": "voice recognition",
+      "score": 15
+    },
+    {
+      "keyword": "retention policy information",
+      "score": 19
+    },
+    {
+      "keyword": "data logging details",
+      "score": 22
+    },
+    {
+      "keyword": "session logs of personal data",
+      "score": 16
+    },
+    {
+      "keyword": "audit logs for analytics",
+      "score": 15
+    },
+    {
+      "keyword": "logs retention with third parties",
+      "score": 15
+    },
+    {
+      "keyword": "policy states to advertisers",
+      "score": 16
+    },
+    {
+      "keyword": "data profiling permanently",
+      "score": 20
+    },
+    {
+      "keyword": "profiling for marketing",
+      "score": 22
+    },
+    {
+      "keyword": "profile-based for profiling purposes",
+      "score": 17
+    },
+    {
+      "keyword": "sensitive categories and affiliates",
+      "score": 19
+    },
+    {
+      "keyword": "sensitive personal data data",
+      "score": 20
+    },
+    {
+      "keyword": "retain to advertisers",
+      "score": 20
+    },
+    {
+      "keyword": "retain indefinitely permanently",
+      "score": 20
+    },
+    {
+      "keyword": "store indefinitely for marketing",
+      "score": 21
+    },
+    {
+      "keyword": "store for profiling purposes",
+      "score": 22
+    },
+    {
+      "keyword": "long term retention and affiliates",
+      "score": 15
+    },
+    {
+      "keyword": "data retention data",
+      "score": 16
+    },
+    {
+      "keyword": "archive records",
+      "score": 19
+    },
+    {
+      "keyword": "archive data of users",
+      "score": 18
+    },
+    {
+      "keyword": "backup for advertising",
+      "score": 19
+    },
+    {
+      "keyword": "backups without consent",
+      "score": 18
+    },
+    {
+      "keyword": "backup retention to third parties",
+      "score": 15
+    },
+    {
+      "keyword": "keep indefinitely",
+      "score": 16
+    },
+    {
+      "keyword": "persistent storage for research",
+      "score": 22
+    },
+    {
+      "keyword": "profiling for profiling",
+      "score": 16
+    },
+    {
+      "keyword": "profile and partners",
+      "score": 18
+    },
+    {
+      "keyword": "profile users",
+      "score": 17
+    },
+    {
+      "keyword": "automated decision information",
+      "score": 16
+    },
+    {
+      "keyword": "automated decisions details",
+      "score": 15
+    },
+    {
+      "keyword": "algorithmic decision of personal data",
+      "score": 22
+    },
+    {
+      "keyword": "algorithmic profiling for analytics",
+      "score": 19
+    },
+    {
+      "keyword": "biometric with third parties",
+      "score": 17
+    },
+    {
+      "keyword": "biometric data to advertisers",
+      "score": 22
+    },
+    {
+      "keyword": "sensitive data permanently",
+      "score": 22
+    },
+    {
+      "keyword": "health data for marketing",
+      "score": 17
+    },
+    {
+      "keyword": "medical history for profiling purposes",
+      "score": 19
+    },
+    {
+      "keyword": "genetic and affiliates",
+      "score": 16
+    },
+    {
+      "keyword": "genetic information data",
+      "score": 16
+    },
+    {
+      "keyword": "financial data records",
+      "score": 22
+    },
+    {
+      "keyword": "financial records of users",
+      "score": 18
+    },
+    {
+      "keyword": "credit score for advertising",
+      "score": 22
+    },
+    {
+      "keyword": "background check without consent",
+      "score": 19
+    },
+    {
+      "keyword": "background verification to third parties",
+      "score": 17
+    },
+    {
+      "keyword": "employee monitoring indefinitely",
+      "score": 18
+    },
+    {
+      "keyword": "employee surveillance for research",
+      "score": 22
+    },
+    {
+      "keyword": "workplace monitoring for profiling",
+      "score": 19
+    },
+    {
+      "keyword": "location tracking and partners",
+      "score": 17
+    },
+    {
+      "keyword": "gps tracking",
+      "score": 17
+    },
+    {
+      "keyword": "device fingerprint information",
+      "score": 15
+    },
+    {
+      "keyword": "fingerprint details",
+      "score": 19
+    },
+    {
+      "keyword": "face recognition of personal data",
+      "score": 18
+    },
+    {
+      "keyword": "facial recognition for analytics",
+      "score": 22
+    },
+    {
+      "keyword": "voiceprint with third parties",
+      "score": 16
+    },
+    {
+      "keyword": "voice recognition to advertisers",
+      "score": 20
+    },
+    {
+      "keyword": "retention policy permanently",
+      "score": 17
+    },
+    {
+      "keyword": "data logging for marketing",
+      "score": 17
+    },
+    {
+      "keyword": "session logs for profiling purposes",
+      "score": 22
+    }
+  ],
+  "moderate_risk": [
+    {
+      "keyword": "collect",
+      "score": 12
+    },
+    {
+      "keyword": "collect data information",
+      "score": 11
+    },
+    {
+      "keyword": "gather details",
+      "score": 10
+    },
+    {
+      "keyword": "gather data of personal data",
+      "score": 12
+    },
+    {
+      "keyword": "obtain for analytics",
+      "score": 9
+    },
+    {
+      "keyword": "obtain information with third parties",
+      "score": 11
+    },
+    {
+      "keyword": "analytics to advertisers",
+      "score": 8
+    },
+    {
+      "keyword": "analytics data permanently",
+      "score": 10
+    },
+    {
+      "keyword": "performance metrics for marketing",
+      "score": 11
+    },
+    {
+      "keyword": "usage metrics for profiling purposes",
+      "score": 11
+    },
+    {
+      "keyword": "usage data and affiliates",
+      "score": 11
+    },
+    {
+      "keyword": "behavior data data",
+      "score": 11
+    },
+    {
+      "keyword": "aggregate records",
+      "score": 10
+    },
+    {
+      "keyword": "aggregate data of users",
+      "score": 9
+    },
+    {
+      "keyword": "statistics for advertising",
+      "score": 9
+    },
+    {
+      "keyword": "statistical without consent",
+      "score": 9
+    },
+    {
+      "keyword": "research to third parties",
+      "score": 8
+    },
+    {
+      "keyword": "research purposes indefinitely",
+      "score": 11
+    },
+    {
+      "keyword": "product improvement for research",
+      "score": 8
+    },
+    {
+      "keyword": "service improvement for profiling",
+      "score": 12
+    },
+    {
+      "keyword": "feedback and partners",
+      "score": 12
+    },
+    {
+      "keyword": "survey",
+      "score": 12
+    },
+    {
+      "keyword": "survey data information",
+      "score": 10
+    },
+    {
+      "keyword": "performance monitoring details",
+      "score": 12
+    },
+    {
+      "keyword": "instrumentation of personal data",
+      "score": 9
+    },
+    {
+      "keyword": "telemetry for analytics",
+      "score": 9
+    },
+    {
+      "keyword": "event data with third parties",
+      "score": 12
+    },
+    {
+      "keyword": "measurement to advertisers",
+      "score": 9
+    },
+    {
+      "keyword": "conversion permanently",
+      "score": 9
+    },
+    {
+      "keyword": "impression for marketing",
+      "score": 12
+    },
+    {
+      "keyword": "click for profiling purposes",
+      "score": 8
+    },
+    {
+      "keyword": "clicks and affiliates",
+      "score": 9
+    },
+    {
+      "keyword": "views data",
+      "score": 11
+    },
+    {
+      "keyword": "page view records",
+      "score": 11
+    },
+    {
+      "keyword": "session of users",
+      "score": 8
+    },
+    {
+      "keyword": "session data for advertising",
+      "score": 12
+    },
+    {
+      "keyword": "debug without consent",
+      "score": 9
+    },
+    {
+      "keyword": "debugging to third parties",
+      "score": 8
+    },
+    {
+      "keyword": "crash report indefinitely",
+      "score": 12
+    },
+    {
+      "keyword": "error report for research",
+      "score": 12
+    },
+    {
+      "keyword": "diagnostics for profiling",
+      "score": 11
+    },
+    {
+      "keyword": "test and partners",
+      "score": 12
+    },
+    {
+      "keyword": "a b test",
+      "score": 12
+    },
+    {
+      "keyword": "ab test information",
+      "score": 8
+    },
+    {
+      "keyword": "collect information",
+      "score": 8
+    },
+    {
+      "keyword": "collect data details",
+      "score": 10
+    },
+    {
+      "keyword": "gather of personal data",
+      "score": 8
+    },
+    {
+      "keyword": "gather data for analytics",
+      "score": 8
+    },
+    {
+      "keyword": "obtain with third parties",
+      "score": 8
+    },
+    {
+      "keyword": "obtain information to advertisers",
+      "score": 9
+    },
+    {
+      "keyword": "analytics permanently",
+      "score": 8
+    },
+    {
+      "keyword": "analytics data for marketing",
+      "score": 12
+    },
+    {
+      "keyword": "performance metrics for profiling purposes",
+      "score": 11
+    },
+    {
+      "keyword": "usage metrics and affiliates",
+      "score": 9
+    },
+    {
+      "keyword": "usage data data",
+      "score": 10
+    },
+    {
+      "keyword": "behavior data records",
+      "score": 10
+    },
+    {
+      "keyword": "aggregate of users",
+      "score": 10
+    },
+    {
+      "keyword": "aggregate data for advertising",
+      "score": 10
+    },
+    {
+      "keyword": "statistics without consent",
+      "score": 12
+    },
+    {
+      "keyword": "statistical to third parties",
+      "score": 8
+    },
+    {
+      "keyword": "research indefinitely",
+      "score": 8
+    },
+    {
+      "keyword": "research purposes for research",
+      "score": 9
+    },
+    {
+      "keyword": "product improvement for profiling",
+      "score": 10
+    },
+    {
+      "keyword": "service improvement and partners",
+      "score": 8
+    },
+    {
+      "keyword": "feedback",
+      "score": 8
+    },
+    {
+      "keyword": "survey information",
+      "score": 10
+    },
+    {
+      "keyword": "survey data details",
+      "score": 9
+    },
+    {
+      "keyword": "performance monitoring of personal data",
+      "score": 8
+    },
+    {
+      "keyword": "instrumentation for analytics",
+      "score": 9
+    },
+    {
+      "keyword": "telemetry with third parties",
+      "score": 10
+    },
+    {
+      "keyword": "event data to advertisers",
+      "score": 8
+    },
+    {
+      "keyword": "measurement permanently",
+      "score": 8
+    },
+    {
+      "keyword": "conversion for marketing",
+      "score": 11
+    },
+    {
+      "keyword": "impression for profiling purposes",
+      "score": 12
+    },
+    {
+      "keyword": "click and affiliates",
+      "score": 10
+    },
+    {
+      "keyword": "clicks data",
+      "score": 11
+    },
+    {
+      "keyword": "views records",
+      "score": 9
+    },
+    {
+      "keyword": "page view of users",
+      "score": 12
+    },
+    {
+      "keyword": "session for advertising",
+      "score": 8
+    },
+    {
+      "keyword": "session data without consent",
+      "score": 12
+    },
+    {
+      "keyword": "debug to third parties",
+      "score": 11
+    },
+    {
+      "keyword": "debugging indefinitely",
+      "score": 11
+    },
+    {
+      "keyword": "crash report for research",
+      "score": 12
+    },
+    {
+      "keyword": "error report for profiling",
+      "score": 8
+    },
+    {
+      "keyword": "diagnostics and partners",
+      "score": 11
+    },
+    {
+      "keyword": "test",
+      "score": 9
+    },
+    {
+      "keyword": "a b test information",
+      "score": 11
+    },
+    {
+      "keyword": "ab test details",
+      "score": 11
+    },
+    {
+      "keyword": "collect details",
+      "score": 8
+    },
+    {
+      "keyword": "collect data of personal data",
+      "score": 9
+    },
+    {
+      "keyword": "gather for analytics",
+      "score": 12
+    },
+    {
+      "keyword": "gather data with third parties",
+      "score": 8
+    },
+    {
+      "keyword": "obtain to advertisers",
+      "score": 12
+    },
+    {
+      "keyword": "obtain information permanently",
+      "score": 12
+    },
+    {
+      "keyword": "analytics for marketing",
+      "score": 12
+    },
+    {
+      "keyword": "analytics data for profiling purposes",
+      "score": 12
+    },
+    {
+      "keyword": "performance metrics and affiliates",
+      "score": 9
+    },
+    {
+      "keyword": "usage metrics data",
+      "score": 10
+    },
+    {
+      "keyword": "usage data records",
+      "score": 11
+    },
+    {
+      "keyword": "behavior data of users",
+      "score": 11
+    }
+  ],
+  "low_risk": [
+    {
+      "keyword": "consent",
+      "score": 3
+    },
+    {
+      "keyword": "unambiguously consent",
+      "score": 3
+    },
+    {
+      "keyword": "opt in information",
+      "score": 3
+    },
+    {
+      "keyword": "opt out details",
+      "score": 3
+    },
+    {
+      "keyword": "opt-out of personal data",
+      "score": 4
+    },
+    {
+      "keyword": "opt-in for analytics",
+      "score": 5
+    },
+    {
+      "keyword": "withdraw consent with third parties",
+      "score": 3
+    },
+    {
+      "keyword": "withdraw to advertisers",
+      "score": 6
+    },
+    {
+      "keyword": "data portability permanently",
+      "score": 4
+    },
+    {
+      "keyword": "access your data for marketing",
+      "score": 5
+    },
+    {
+      "keyword": "right to access for profiling purposes",
+      "score": 4
+    },
+    {
+      "keyword": "user rights and affiliates",
+      "score": 3
+    },
+    {
+      "keyword": "delete request data",
+      "score": 5
+    },
+    {
+      "keyword": "right to delete records",
+      "score": 5
+    },
+    {
+      "keyword": "erase data of users",
+      "score": 6
+    },
+    {
+      "keyword": "update information for advertising",
+      "score": 6
+    },
+    {
+      "keyword": "update details without consent",
+      "score": 6
+    },
+    {
+      "keyword": "update preferences to third parties",
+      "score": 3
+    },
+    {
+      "keyword": "manage preferences indefinitely",
+      "score": 3
+    },
+    {
+      "keyword": "privacy settings for research",
+      "score": 3
+    },
+    {
+      "keyword": "consent management for profiling",
+      "score": 5
+    },
+    {
+      "keyword": "consent preferences and partners",
+      "score": 6
+    },
+    {
+      "keyword": "consent settings",
+      "score": 4
+    },
+    {
+      "keyword": "choice information",
+      "score": 3
+    },
+    {
+      "keyword": "user control details",
+      "score": 3
+    },
+    {
+      "keyword": "data subject request of personal data",
+      "score": 4
+    },
+    {
+      "keyword": "consent details",
+      "score": 3
+    },
+    {
+      "keyword": "opt in of personal data",
+      "score": 6
+    },
+    {
+      "keyword": "opt out for analytics",
+      "score": 3
+    },
+    {
+      "keyword": "opt-out with third parties",
+      "score": 4
+    },
+    {
+      "keyword": "opt-in to advertisers",
+      "score": 6
+    },
+    {
+      "keyword": "withdraw consent permanently",
+      "score": 4
+    },
+    {
+      "keyword": "withdraw for marketing",
+      "score": 6
+    },
+    {
+      "keyword": "data portability for profiling purposes",
+      "score": 6
+    },
+    {
+      "keyword": "access your data and affiliates",
+      "score": 6
+    },
+    {
+      "keyword": "right to access data",
+      "score": 5
+    },
+    {
+      "keyword": "user rights records",
+      "score": 6
+    },
+    {
+      "keyword": "delete request of users",
+      "score": 3
+    },
+    {
+      "keyword": "right to delete for advertising",
+      "score": 6
+    },
+    {
+      "keyword": "erase data without consent",
+      "score": 4
+    },
+    {
+      "keyword": "update information to third parties",
+      "score": 6
+    },
+    {
+      "keyword": "update details indefinitely",
+      "score": 5
+    },
+    {
+      "keyword": "update preferences for research",
+      "score": 5
+    },
+    {
+      "keyword": "manage preferences for profiling",
+      "score": 3
+    },
+    {
+      "keyword": "privacy settings and partners",
+      "score": 4
+    },
+    {
+      "keyword": "consent management",
+      "score": 5
+    },
+    {
+      "keyword": "consent preferences information",
+      "score": 4
+    },
+    {
+      "keyword": "consent settings details",
+      "score": 4
+    },
+    {
+      "keyword": "choice of personal data",
+      "score": 5
+    },
+    {
+      "keyword": "user control for analytics",
+      "score": 4
+    },
+    {
+      "keyword": "data subject request with third parties",
+      "score": 4
+    },
+    {
+      "keyword": "consent for analytics",
+      "score": 3
+    },
+    {
+      "keyword": "opt in with third parties",
+      "score": 5
+    },
+    {
+      "keyword": "opt out to advertisers",
+      "score": 4
+    },
+    {
+      "keyword": "opt-out permanently",
+      "score": 4
+    },
+    {
+      "keyword": "opt-in for marketing",
+      "score": 4
+    },
+    {
+      "keyword": "withdraw consent for profiling purposes",
+      "score": 4
+    },
+    {
+      "keyword": "withdraw and affiliates",
+      "score": 6
+    },
+    {
+      "keyword": "data portability data",
+      "score": 3
+    },
+    {
+      "keyword": "access your data records",
+      "score": 6
+    },
+    {
+      "keyword": "right to access of users",
+      "score": 6
+    },
+    {
+      "keyword": "user rights for advertising",
+      "score": 5
+    },
+    {
+      "keyword": "delete request without consent",
+      "score": 5
+    },
+    {
+      "keyword": "right to delete to third parties",
+      "score": 6
+    },
+    {
+      "keyword": "erase data indefinitely",
+      "score": 6
+    },
+    {
+      "keyword": "update information for research",
+      "score": 5
+    },
+    {
+      "keyword": "update details for profiling",
+      "score": 6
+    },
+    {
+      "keyword": "update preferences and partners",
+      "score": 4
+    },
+    {
+      "keyword": "manage preferences",
+      "score": 3
+    },
+    {
+      "keyword": "privacy settings information",
+      "score": 6
+    },
+    {
+      "keyword": "consent management details",
+      "score": 3
+    },
+    {
+      "keyword": "consent preferences of personal data",
+      "score": 6
+    },
+    {
+      "keyword": "consent settings for analytics",
+      "score": 6
+    },
+    {
+      "keyword": "choice with third parties",
+      "score": 4
+    },
+    {
+      "keyword": "user control to advertisers",
+      "score": 3
+    },
+    {
+      "keyword": "data subject request permanently",
+      "score": 5
+    },
+    {
+      "keyword": "consent to advertisers",
+      "score": 3
+    },
+    {
+      "keyword": "opt in permanently",
+      "score": 4
+    },
+    {
+      "keyword": "opt out for marketing",
+      "score": 6
+    },
+    {
+      "keyword": "opt-out for profiling purposes",
+      "score": 4
+    },
+    {
+      "keyword": "opt-in and affiliates",
+      "score": 4
+    },
+    {
+      "keyword": "withdraw consent data",
+      "score": 6
+    },
+    {
+      "keyword": "withdraw records",
+      "score": 4
+    },
+    {
+      "keyword": "data portability of users",
+      "score": 3
+    },
+    {
+      "keyword": "access your data for advertising",
+      "score": 6
+    },
+    {
+      "keyword": "right to access without consent",
+      "score": 4
+    },
+    {
+      "keyword": "user rights to third parties",
+      "score": 6
+    },
+    {
+      "keyword": "delete request indefinitely",
+      "score": 5
+    },
+    {
+      "keyword": "right to delete for research",
+      "score": 4
+    },
+    {
+      "keyword": "erase data for profiling",
+      "score": 6
+    },
+    {
+      "keyword": "update information and partners",
+      "score": 3
+    },
+    {
+      "keyword": "update details",
+      "score": 6
+    },
+    {
+      "keyword": "update preferences information",
+      "score": 6
+    },
+    {
+      "keyword": "manage preferences details",
+      "score": 5
+    },
+    {
+      "keyword": "privacy settings of personal data",
+      "score": 4
+    },
+    {
+      "keyword": "consent management for analytics",
+      "score": 4
+    },
+    {
+      "keyword": "consent preferences with third parties",
+      "score": 4
+    },
+    {
+      "keyword": "consent settings to advertisers",
+      "score": 4
+    },
+    {
+      "keyword": "choice permanently",
+      "score": 3
+    },
+    {
+      "keyword": "user control for marketing",
+      "score": 3
+    },
+    {
+      "keyword": "data subject request for profiling purposes",
+      "score": 3
+    }
+  ],
+  "minimal_risk": [
+    {
+      "keyword": "privacy policy",
+      "score": 1
+    },
+    {
+      "keyword": "terms of service information",
+      "score": 2
+    },
+    {
+      "keyword": "contact us details",
+      "score": 2
+    },
+    {
+      "keyword": "support of personal data",
+      "score": 2
+    },
+    {
+      "keyword": "security for analytics",
+      "score": 1
+    },
+    {
+      "keyword": "transparency with third parties",
+      "score": 2
+    },
+    {
+      "keyword": "privacy rights to advertisers",
+      "score": 1
+    },
+    {
+      "keyword": "policy permanently",
+      "score": 2
+    },
+    {
+      "keyword": "compliance for marketing",
+      "score": 1
+    },
+    {
+      "keyword": "gdpr for profiling purposes",
+      "score": 2
+    },
+    {
+      "keyword": "ccpa and affiliates",
+      "score": 1
+    },
+    {
+      "keyword": "law data",
+      "score": 2
+    },
+    {
+      "keyword": "legal records",
+      "score": 2
+    },
+    {
+      "keyword": "notice of users",
+      "score": 1
+    },
+    {
+      "keyword": "update policy for advertising",
+      "score": 1
+    },
+    {
+      "keyword": "policy update without consent",
+      "score": 2
+    },
+    {
+      "keyword": "support email to third parties",
+      "score": 2
+    },
+    {
+      "keyword": "help center indefinitely",
+      "score": 1
+    },
+    {
+      "keyword": "terms for research",
+      "score": 1
+    },
+    {
+      "keyword": "agreement for profiling",
+      "score": 1
+    },
+    {
+      "keyword": "privacy policy and affiliates",
+      "score": 2
+    },
+    {
+      "keyword": "terms of service data",
+      "score": 1
+    },
+    {
+      "keyword": "contact us records",
+      "score": 2
+    },
+    {
+      "keyword": "support of users",
+      "score": 2
+    },
+    {
+      "keyword": "security for advertising",
+      "score": 1
+    },
+    {
+      "keyword": "transparency without consent",
+      "score": 1
+    },
+    {
+      "keyword": "privacy rights to third parties",
+      "score": 1
+    },
+    {
+      "keyword": "policy indefinitely",
+      "score": 1
+    },
+    {
+      "keyword": "compliance for research",
+      "score": 2
+    },
+    {
+      "keyword": "gdpr for profiling",
+      "score": 2
+    },
+    {
+      "keyword": "ccpa and partners",
+      "score": 1
+    },
+    {
+      "keyword": "law",
+      "score": 1
+    },
+    {
+      "keyword": "legal information",
+      "score": 2
+    },
+    {
+      "keyword": "notice details",
+      "score": 2
+    },
+    {
+      "keyword": "update policy of personal data",
+      "score": 2
+    },
+    {
+      "keyword": "policy update for analytics",
+      "score": 1
+    },
+    {
+      "keyword": "support email with third parties",
+      "score": 2
+    },
+    {
+      "keyword": "help center to advertisers",
+      "score": 2
+    },
+    {
+      "keyword": "terms permanently",
+      "score": 2
+    },
+    {
+      "keyword": "agreement for marketing",
+      "score": 2
+    },
+    {
+      "keyword": "privacy policy and partners",
+      "score": 2
+    },
+    {
+      "keyword": "terms of service",
+      "score": 1
+    },
+    {
+      "keyword": "contact us information",
+      "score": 2
+    },
+    {
+      "keyword": "support details",
+      "score": 2
+    },
+    {
+      "keyword": "security of personal data",
+      "score": 2
+    },
+    {
+      "keyword": "transparency for analytics",
+      "score": 2
+    },
+    {
+      "keyword": "privacy rights with third parties",
+      "score": 1
+    },
+    {
+      "keyword": "policy to advertisers",
+      "score": 1
+    },
+    {
+      "keyword": "compliance permanently",
+      "score": 2
+    },
+    {
+      "keyword": "gdpr for marketing",
+      "score": 2
+    },
+    {
+      "keyword": "ccpa for profiling purposes",
+      "score": 1
+    },
+    {
+      "keyword": "law and affiliates",
+      "score": 1
+    },
+    {
+      "keyword": "legal data",
+      "score": 2
+    },
+    {
+      "keyword": "notice records",
+      "score": 2
+    },
+    {
+      "keyword": "update policy of users",
+      "score": 2
+    },
+    {
+      "keyword": "policy update for advertising",
+      "score": 2
+    },
+    {
+      "keyword": "support email without consent",
+      "score": 1
+    },
+    {
+      "keyword": "help center to third parties",
+      "score": 2
+    },
+    {
+      "keyword": "terms indefinitely",
+      "score": 1
+    },
+    {
+      "keyword": "agreement for research",
+      "score": 1
+    },
+    {
+      "keyword": "privacy policy for profiling purposes",
+      "score": 2
+    },
+    {
+      "keyword": "terms of service and affiliates",
+      "score": 1
+    },
+    {
+      "keyword": "contact us data",
+      "score": 2
+    },
+    {
+      "keyword": "support records",
+      "score": 1
+    },
+    {
+      "keyword": "security of users",
+      "score": 1
+    },
+    {
+      "keyword": "transparency for advertising",
+      "score": 1
+    },
+    {
+      "keyword": "privacy rights without consent",
+      "score": 1
+    },
+    {
+      "keyword": "policy to third parties",
+      "score": 2
+    },
+    {
+      "keyword": "compliance indefinitely",
+      "score": 2
+    },
+    {
+      "keyword": "gdpr for research",
+      "score": 1
+    },
+    {
+      "keyword": "ccpa for profiling",
+      "score": 2
+    },
+    {
+      "keyword": "law and partners",
+      "score": 1
+    },
+    {
+      "keyword": "legal",
+      "score": 1
+    },
+    {
+      "keyword": "notice information",
+      "score": 2
+    },
+    {
+      "keyword": "update policy details",
+      "score": 2
+    },
+    {
+      "keyword": "policy update of personal data",
+      "score": 1
+    },
+    {
+      "keyword": "support email for analytics",
+      "score": 2
+    },
+    {
+      "keyword": "help center with third parties",
+      "score": 2
+    },
+    {
+      "keyword": "terms to advertisers",
+      "score": 2
+    },
+    {
+      "keyword": "agreement permanently",
+      "score": 1
+    },
+    {
+      "keyword": "privacy policy for profiling",
+      "score": 1
+    },
+    {
+      "keyword": "terms of service and partners",
+      "score": 2
+    },
+    {
+      "keyword": "contact us",
+      "score": 1
+    },
+    {
+      "keyword": "support information",
+      "score": 1
+    },
+    {
+      "keyword": "security details",
+      "score": 2
+    },
+    {
+      "keyword": "transparency of personal data",
+      "score": 2
+    },
+    {
+      "keyword": "privacy rights for analytics",
+      "score": 2
+    },
+    {
+      "keyword": "policy with third parties",
+      "score": 2
+    },
+    {
+      "keyword": "compliance to advertisers",
+      "score": 1
+    },
+    {
+      "keyword": "gdpr permanently",
+      "score": 1
+    },
+    {
+      "keyword": "ccpa for marketing",
+      "score": 2
+    },
+    {
+      "keyword": "law for profiling purposes",
+      "score": 1
+    },
+    {
+      "keyword": "legal and affiliates",
+      "score": 1
+    },
+    {
+      "keyword": "notice data",
+      "score": 1
+    },
+    {
+      "keyword": "update policy records",
+      "score": 1
+    },
+    {
+      "keyword": "policy update of users",
+      "score": 1
+    },
+    {
+      "keyword": "support email for advertising",
+      "score": 2
+    },
+    {
+      "keyword": "help center without consent",
+      "score": 1
+    },
+    {
+      "keyword": "terms to third parties",
+      "score": 1
+    },
+    {
+      "keyword": "agreement indefinitely",
+      "score": 2
+    }
+  ]
+}
